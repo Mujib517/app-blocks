@@ -15,10 +15,7 @@ module.exports = {
         }]
     },
     devServer: {
-        port: 8081,
-        historyApiFallback: {
-            index: 'index.html',
-        },
+        port: 8081
     },
     plugins: [
         new HtmlWebpackPlugin({
