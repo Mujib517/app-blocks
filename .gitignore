@@ -1,0 +1,10 @@
+node_modules
+
+.idea
+.vscode
+
+*-debug.log
+logs/
+
+secrets
+*.pem

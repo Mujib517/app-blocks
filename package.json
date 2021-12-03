@@ -1,0 +1,14 @@
+{
+  "name": "app-blocks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "shell": "cd app-shell && npm run dev",
+    "app1": "cd react-app1 && npm run dev",
+    "app2": "cd react-app2 && npm run dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
